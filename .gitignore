@@ -36,6 +36,7 @@ build/Release
 
 # Dependency directories
 client/node_modules/
+server/node_modules/
 jspm_packages/
 
 # TypeScript v1 declaration files
@@ -86,3 +87,7 @@ sw.*
 
 # Mac OSX
 .DS_Store
+
+# Server stuff
+server/tmp
+server/.env
