@@ -94,3 +94,6 @@ server/.env
 
 # Emacs
 *~
+
+# .gitignore
+.gitignore
