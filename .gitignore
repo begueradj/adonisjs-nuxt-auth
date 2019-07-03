@@ -91,3 +91,6 @@ sw.*
 # Server stuff
 server/tmp
 server/.env
+
+# Emacs
+*~
