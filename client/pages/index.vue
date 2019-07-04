@@ -1,7 +1,7 @@
 <template>
   <v-container
     grid-list-md
-    text-align-center
+    text-xs-center
     fill-height
   >
     <v-layout
@@ -11,8 +11,6 @@
     >
       <v-flex
         xs12
-        sm8
-        md6
       >
         Hello
       </v-flex>
